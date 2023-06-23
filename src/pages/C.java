@@ -11,15 +11,7 @@ public class C
 		{
 			
 			
-			if(i%2==0)
-			{
-				
-				System.out.println("Even index no. value is ="+a[i]);
-				sum=sum+a[i];
-				
-				
-								
-			}
+			
 			
 			
 			
